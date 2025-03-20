@@ -5,8 +5,7 @@
 Before you begin, ensure you have the following installed:
 
 - [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/) (if your project is a Node.js application)
-- Any other dependencies your project might need
+- [Node.js](https://nodejs.org/) 
 
 ## Cloning the Repository
 
